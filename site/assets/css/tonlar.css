@@ -1,0 +1,101 @@
+/* Otomatik üretildi: tools/site-tonlari.js (kaynak: instagram/kaynak/palet.js). Elle düzenleme. */
+/* Tonlar: adacayi, sis, deniz, lavanta, lacivert, grafit, erik, kobalt, petrol, gul, bordo */
+:root[data-ton="adacayi"] {
+  --paper: #f7f8f2; --paper-2: #eff2ea; --sand: #e4eadf; --sand-2: #d7e0d2; --cream: #fafbf5; --white: #fffffb;
+  --clay-300: #cfdcd2; --clay-400: #a9c0b0; --clay-500: #86a491; --clay-600: #62806e; --clay-700: #4d6a59;
+  --ink-900: #1d2621; --ink-700: #34433a; --ink-600: #4b5a51; --ink-500: #6d7c72;
+  --bronze: #5c8a6e; --gold: #bfa26a; --gold-soft: #b7cfbf; --ember: #d8342c;
+  --kum-ust: #e9eee3; --kum-orta: #dbe4d5; --omurga-krem: #e3ebe0; --harita-ay: #e2eae0; --kart-ust: #e9eee3; --kart-alt: #d7e0d2;
+  --ink-rgb: 29,38,33; --golge-rgb: 48,74,60; --golge2-rgb: 48,74,60; --golge3-rgb: 48,74,60; --golge4-rgb: 48,74,60;
+  --kil7-rgb: 77, 106, 89; --kil6-rgb: 98, 128, 110; --bronz-rgb: 92, 138, 110; --kum-rgb: 228, 234, 223; --isik-rgb: 207, 220, 210;
+}
+:root[data-ton="sis"] {
+  --paper: #f6f8fa; --paper-2: #eef2f6; --sand: #e4eaf0; --sand-2: #d7e0e9; --cream: #fafcfd; --white: #fdfeff;
+  --clay-300: #cfd9e4; --clay-400: #a9bccf; --clay-500: #849db8; --clay-600: #64809c; --clay-700: #4d6580;
+  --ink-900: #1b2430; --ink-700: #33404f; --ink-600: #4a5868; --ink-500: #6c7a8a;
+  --bronze: #5b7fa5; --gold: #c2a36a; --gold-soft: #bccde0; --ember: #d8342c;
+  --kum-ust: #e8edf3; --kum-orta: #dae2eb; --omurga-krem: #e1e8ef; --harita-ay: #e2e9f0; --kart-ust: #e8edf3; --kart-alt: #d7e0e9;
+  --ink-rgb: 27,36,48; --golge-rgb: 45,65,95; --golge2-rgb: 45,65,95; --golge3-rgb: 45,65,95; --golge4-rgb: 45,65,95;
+  --kil7-rgb: 77, 101, 128; --kil6-rgb: 100, 128, 156; --bronz-rgb: 91, 127, 165; --kum-rgb: 228, 234, 240; --isik-rgb: 207, 217, 228;
+}
+:root[data-ton="deniz"] {
+  --paper: #f5f9f8; --paper-2: #ecf3f2; --sand: #e0ecea; --sand-2: #d0e2df; --cream: #f9fcfb; --white: #fdfffe;
+  --clay-300: #c7e0dc; --clay-400: #95c1bb; --clay-500: #62a19a; --clay-600: #3f7a75; --clay-700: #2e625e;
+  --ink-900: #16262a; --ink-700: #2c4146; --ink-600: #45595e; --ink-500: #677b80;
+  --bronze: #2f7f7a; --gold: #c7a262; --gold-soft: #acd3ce; --ember: #d8342c;
+  --kum-ust: #e5efed; --kum-orta: #d5e5e2; --omurga-krem: #dcebe8; --harita-ay: #dcebe8; --kart-ust: #e5efed; --kart-alt: #d0e2df;
+  --ink-rgb: 22,38,42; --golge-rgb: 30,70,70; --golge2-rgb: 30,70,70; --golge3-rgb: 30,70,70; --golge4-rgb: 30,70,70;
+  --kil7-rgb: 46, 98, 94; --kil6-rgb: 63, 122, 117; --bronz-rgb: 47, 127, 122; --kum-rgb: 224, 236, 234; --isik-rgb: 199, 224, 220;
+}
+:root[data-ton="lavanta"] {
+  --paper: #f8f7fa; --paper-2: #f0eef5; --sand: #e7e4ee; --sand-2: #dad5e5; --cream: #fbfafc; --white: #fefdff;
+  --clay-300: #d9d3e7; --clay-400: #b7acd0; --clay-500: #978ab8; --clay-600: #7a6f9a; --clay-700: #5e527f;
+  --ink-900: #221f2b; --ink-700: #3a3548; --ink-600: #524c61; --ink-500: #736d82;
+  --bronze: #7d70a6; --gold: #c2a36a; --gold-soft: #cdc5e1; --ember: #d8342c;
+  --kum-ust: #ebe8f1; --kum-orta: #dfdae9; --omurga-krem: #e6e2ef; --harita-ay: #e7e3ef; --kart-ust: #ebe8f1; --kart-alt: #dad5e5;
+  --ink-rgb: 34,31,43; --golge-rgb: 70,60,100; --golge2-rgb: 70,60,100; --golge3-rgb: 70,60,100; --golge4-rgb: 70,60,100;
+  --kil7-rgb: 94, 82, 127; --kil6-rgb: 122, 111, 154; --bronz-rgb: 125, 112, 166; --kum-rgb: 231, 228, 238; --isik-rgb: 217, 211, 231;
+}
+:root[data-ton="lacivert"] {
+  --paper: #f6f7fa; --paper-2: #eef0f5; --sand: #e3e7ef; --sand-2: #d5dbe7; --cream: #fafbfd; --white: #fdfdff;
+  --clay-300: #d3daea; --clay-400: #a8b5d2; --clay-500: #7c8db5; --clay-600: #3d5080; --clay-700: #34497a;
+  --ink-900: #141b2e; --ink-700: #2a3550; --ink-600: #434e68; --ink-500: #687289;
+  --bronze: #2f4372; --gold: #c2a36a; --gold-soft: #b9c4dc; --ember: #d8342c;
+  --kum-ust: #e8ebf2; --kum-orta: #d9dfea; --omurga-krem: #e2e6ef; --harita-ay: #e3e7f0; --kart-ust: #e8ebf2; --kart-alt: #d5dbe7;
+  --ink-rgb: 20,27,46; --golge-rgb: 30,42,80; --golge2-rgb: 30,42,80; --golge3-rgb: 30,42,80; --golge4-rgb: 30,42,80;
+  --kil7-rgb: 52, 73, 122; --kil6-rgb: 61, 80, 128; --bronz-rgb: 47, 67, 114; --kum-rgb: 227, 231, 239; --isik-rgb: 211, 218, 234;
+}
+:root[data-ton="grafit"] {
+  --paper: #f5f6f6; --paper-2: #eeefef; --sand: #e3e5e6; --sand-2: #d6d9db; --cream: #fafafa; --white: #ffffff;
+  --clay-300: #d9dcdf; --clay-400: #b5babf; --clay-500: #8f969c; --clay-600: #4f575e; --clay-700: #4a5157;
+  --ink-900: #16181a; --ink-700: #2d3134; --ink-600: #464b4f; --ink-500: #6a7075;
+  --bronze: #3b4248; --gold: #c2a36a; --gold-soft: #c9cdd1; --ember: #d8342c;
+  --kum-ust: #e9eaeb; --kum-orta: #dcdfe0; --omurga-krem: #e4e6e8; --harita-ay: #e5e7e8; --kart-ust: #e9eaeb; --kart-alt: #d6d9db;
+  --ink-rgb: 22,24,26; --golge-rgb: 40,44,48; --golge2-rgb: 40,44,48; --golge3-rgb: 40,44,48; --golge4-rgb: 40,44,48;
+  --kil7-rgb: 74, 81, 87; --kil6-rgb: 79, 87, 94; --bronz-rgb: 59, 66, 72; --kum-rgb: 227, 229, 230; --isik-rgb: 217, 220, 223;
+}
+:root[data-ton="erik"] {
+  --paper: #f8f6f8; --paper-2: #f1edf1; --sand: #e8e1e9; --sand-2: #dcd2de; --cream: #fcfafc; --white: #fffdff;
+  --clay-300: #e3d3e3; --clay-400: #c9abca; --clay-500: #a882aa; --clay-600: #7a4f7c; --clay-700: #67446b;
+  --ink-900: #241a26; --ink-700: #3d2e40; --ink-600: #564659; --ink-500: #786a7b;
+  --bronze: #7b3f7e; --gold: #c2a36a; --gold-soft: #dcc3dc; --ember: #d8342c;
+  --kum-ust: #ece6ed; --kum-orta: #e0d7e2; --omurga-krem: #ebe2eb; --harita-ay: #ece3ec; --kart-ust: #ece6ed; --kart-alt: #dcd2de;
+  --ink-rgb: 36,26,38; --golge-rgb: 80,45,85; --golge2-rgb: 80,45,85; --golge3-rgb: 80,45,85; --golge4-rgb: 80,45,85;
+  --kil7-rgb: 103, 68, 107; --kil6-rgb: 122, 79, 124; --bronz-rgb: 123, 63, 126; --kum-rgb: 232, 225, 233; --isik-rgb: 227, 211, 227;
+}
+:root[data-ton="kobalt"] {
+  --paper: #f5f7fc; --paper-2: #edf0f9; --sand: #e1e6f5; --sand-2: #d2d9f0; --cream: #fafbfe; --white: #fdfdff;
+  --clay-300: #d0d9f5; --clay-400: #a3b4ec; --clay-500: #7189dc; --clay-600: #3552c0; --clay-700: #2f48a6;
+  --ink-900: #121831; --ink-700: #27304f; --ink-600: #3f4868; --ink-500: #636c8b;
+  --bronze: #2747c8; --gold: #c2a36a; --gold-soft: #b8c5f0; --ember: #d8342c;
+  --kum-ust: #e6eaf7; --kum-orta: #d7def2; --omurga-krem: #e0e6f6; --harita-ay: #e1e7f7; --kart-ust: #e6eaf7; --kart-alt: #d2d9f0;
+  --ink-rgb: 18,24,49; --golge-rgb: 30,50,140; --golge2-rgb: 30,50,140; --golge3-rgb: 30,50,140; --golge4-rgb: 30,50,140;
+  --kil7-rgb: 47, 72, 166; --kil6-rgb: 53, 82, 192; --bronz-rgb: 39, 71, 200; --kum-rgb: 225, 230, 245; --isik-rgb: 208, 217, 245;
+}
+:root[data-ton="petrol"] {
+  --paper: #f4f8f8; --paper-2: #ebf2f3; --sand: #dde9eb; --sand-2: #cddde0; --cream: #f9fbfc; --white: #fcfefe;
+  --clay-300: #c9dfe3; --clay-400: #98c0c8; --clay-500: #659ea9; --clay-600: #2c6672; --clay-700: #275f6a;
+  --ink-900: #102226; --ink-700: #243b40; --ink-600: #3c5459; --ink-500: #61777b;
+  --bronze: #1d5d6b; --gold: #c2a36a; --gold-soft: #aecfd5; --ember: #d8342c;
+  --kum-ust: #e3eef0; --kum-orta: #d3e3e6; --omurga-krem: #dbe9ec; --harita-ay: #dceaec; --kart-ust: #e3eef0; --kart-alt: #cddde0;
+  --ink-rgb: 16,34,38; --golge-rgb: 20,70,80; --golge2-rgb: 20,70,80; --golge3-rgb: 20,70,80; --golge4-rgb: 20,70,80;
+  --kil7-rgb: 39, 95, 106; --kil6-rgb: 44, 102, 114; --bronz-rgb: 29, 93, 107; --kum-rgb: 221, 233, 235; --isik-rgb: 201, 223, 227;
+}
+:root[data-ton="gul"] {
+  --paper: #faf6f7; --paper-2: #f4edef; --sand: #ece1e4; --sand-2: #e2d2d7; --cream: #fdfafb; --white: #fffdfd;
+  --clay-300: #ecd5dc; --clay-400: #dbb0bd; --clay-500: #c4879a; --clay-600: #9a5a6b; --clay-700: #84485b;
+  --ink-900: #2a1a1f; --ink-700: #452d35; --ink-600: #5e464e; --ink-500: #7f6970;
+  --bronze: #a5566b; --gold: #c2a36a; --gold-soft: #e8c6cf; --ember: #d8342c;
+  --kum-ust: #f0e6e9; --kum-orta: #e6d7dc; --omurga-krem: #efe3e7; --harita-ay: #f0e5e8; --kart-ust: #f0e6e9; --kart-alt: #e2d2d7;
+  --ink-rgb: 42,26,31; --golge-rgb: 110,55,70; --golge2-rgb: 110,55,70; --golge3-rgb: 110,55,70; --golge4-rgb: 110,55,70;
+  --kil7-rgb: 132, 72, 91; --kil6-rgb: 154, 90, 107; --bronz-rgb: 165, 86, 107; --kum-rgb: 236, 225, 228; --isik-rgb: 236, 213, 220;
+}
+:root[data-ton="bordo"] {
+  --paper: #f9f6f7; --paper-2: #f2ecee; --sand: #e9dfe2; --sand-2: #ded0d4; --cream: #fcfafb; --white: #fffdfe;
+  --clay-300: #e8d0d8; --clay-400: #d1a5b4; --clay-500: #b37489; --clay-600: #7d3550; --clay-700: #702c45;
+  --ink-900: #24141a; --ink-700: #3f2730; --ink-600: #593f48; --ink-500: #7b636b;
+  --bronze: #7a2140; --gold: #c2a36a; --gold-soft: #e0bcc8; --ember: #d8342c;
+  --kum-ust: #eee5e8; --kum-orta: #e3d6da; --omurga-krem: #ede1e5; --harita-ay: #eee2e6; --kart-ust: #eee5e8; --kart-alt: #ded0d4;
+  --ink-rgb: 36,20,26; --golge-rgb: 100,30,55; --golge2-rgb: 100,30,55; --golge3-rgb: 100,30,55; --golge4-rgb: 100,30,55;
+  --kil7-rgb: 112, 44, 69; --kil6-rgb: 125, 53, 80; --bronz-rgb: 122, 33, 64; --kum-rgb: 233, 223, 226; --isik-rgb: 232, 208, 216;
+}
